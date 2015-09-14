@@ -22,7 +22,7 @@ Read more: [tsourounis-csc412-project.pdf](https://github.com/guess/recommender/
 
 2. Christodoulakis, C. (2014). Design Considerations for an Ef- fective Recommendation Manager in the Context of the IBM LabBook Distributed Collaborative Analytics Platform.
 
-3. The Gaurdian, ”5 Types of Music Discovery”. http://www.theguardian.com/technology/2014/mar/19/music- discovery-spotify-apps-facebook
+3. The Gaurdian, ”5 Types of Music Discovery”. http://www.theguardian.com/technology/2014/mar/19/music-discovery-spotify-apps-facebook
 
 4. Roy, S. B., Lakshmanan, L. V., & Liu, R. (2015). From Group Recommendations to Group Formation. arXiv preprint arXiv:1503.03753.
 
